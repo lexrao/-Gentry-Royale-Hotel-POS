@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/grand_royale_pos.html" }
+  ]
+}
